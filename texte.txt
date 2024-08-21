@@ -1,0 +1,6 @@
+Titre du document
+Ceci est une première ligne.
+**Ceci est une ligne en gras.
+Ceci est une ligne normale.
+**Une autre ligne en gras.
+Encore une ligne normale.
