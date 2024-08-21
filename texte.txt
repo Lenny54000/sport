@@ -13,5 +13,6 @@ Une fois terminé nous nous entrainerons sur 80m 100m et 120m
 Distance |  Lenny  |   Hej   |
   50m    |  8.05   |  7.35   |
   80m    |  12.89  |  12.00  |
-  100m   |  16.67  |         |
-  120m   |         |         |
+  100m   |  16.67  |   N.A.  |
+  120m   |  N.A.   |   N.A.  |
+  400m   |  N.A.   |   N.A.  |
